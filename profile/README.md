@@ -1,9 +1,14 @@
-<h1 align="center">Vero</h1>
+<div align="center">
+  <a href="https://vero.finance/en/">
+    Vero.Finance
+  </a>
+</div>
 
-Vero streamlines import-export operations, payments, credit and more. Building real world trade onchain.
+<p align="center">
+  Vero streamlines import-export operations, payments, and credit in a single platform. <b>Powering real-world trade onchain<b/>.
+</p>
+<br />
+<br />
 
-🔗 Website: [vero.finance/en](https://vero.finance/en/)
-
----
 
 ![Vero website preview](https://vero.finance/og-image.png)
